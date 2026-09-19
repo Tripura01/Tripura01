@@ -525,7 +525,7 @@ Computer Science & Engineering
 
   &nbsp;&nbsp;
 
-  <a href="#">
+  <a href="https://www.linkedin.com/in/tripura-alladi-30b699383?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
