@@ -294,13 +294,13 @@ An AI-powered Python application created during a 3-hour hackathon to transform 
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=YTripura01&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tripura01&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
     alt="Top Languages"
   />
@@ -316,7 +316,7 @@ An AI-powered Python application created during a 3-hour hackathon to transform 
 <p align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=Tripura01&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
 
@@ -329,7 +329,7 @@ An AI-powered Python application created during a 3-hour hackathon to transform 
 <p align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Tripura01&theme=tokyo-night&hide_border=true"
   width="95%"
   alt="GitHub Activity Graph"
 />
@@ -534,7 +534,7 @@ Computer Science & Engineering
 
   &nbsp;&nbsp;
 
-  <a href="#">
+  <a href="https://github.com/Tripura01">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
