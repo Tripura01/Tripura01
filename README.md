@@ -294,14 +294,14 @@ An AI-powered Python application created during a 3-hour hackathon to transform 
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YTripura01&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tripura01&theme=tokyonight"
+    height="180"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tripura01&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tripura01&theme=tokyonight"
+    height="180"
     alt="Top Languages"
   />
 
@@ -309,30 +309,46 @@ An AI-powered Python application created during a 3-hour hackathon to transform 
 
 ---
 
-<!-- ========================= CODING ACTIVITY ========================= -->
+<!-- ========================= GITHUB PROFILE ========================= -->
 
-## 🔥 Coding Activity
+## 🚀 GitHub Profile
 
 <p align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=Tripura01&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tripura01&theme=tokyonight"
+    width="95%"
+    alt="GitHub Profile Details"
+  />
 
 </p>
 
 ---
 
-<!-- ========================= ACTIVITY GRAPH ========================= -->
+<!-- ========================= GITHUB ========================= -->
 
 <p align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Tripura01&theme=tokyo-night&hide_border=true"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
+  <a href="https://github.com/Tripura01">
+    <img
+      src="https://img.shields.io/github/followers/Tripura01?label=Followers&style=for-the-badge"
+      alt="GitHub Followers"
+    />
+  </a>
+
+  <a href="https://github.com/Tripura01?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/Tripura01?label=Stars&style=for-the-badge"
+      alt="GitHub Stars"
+    />
+  </a>
+
+  <a href="https://github.com/Tripura01?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Repositories"
+    />
+  </a>
 
 </p>
 
